@@ -1,4 +1,4 @@
-[6:34 pm, 24/01/2023] Surendar N: # Places Around Me
+# Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
 
